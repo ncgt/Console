@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<meta>
+  <info name="GameConsole" author="Nuno" type="script" />
+
+  <script src="GameConsole.cs" type="server" lang="csharp" />
+</meta>
